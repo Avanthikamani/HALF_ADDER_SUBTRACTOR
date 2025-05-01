@@ -70,7 +70,8 @@ Developed by:Avanthika M RegisterNumber:212224110009*/
 
 **Output/TIMING Waveform**
 ![Screenshot 2025-05-01 182950](https://github.com/user-attachments/assets/b8323055-453f-468b-ab15-5e84705c1e60)
-![Screenshot 2025-05-01 185007](https://github.com/user-attachments/assets/eeb291fc-3f6e-4b52-a3aa-086848974dd8)
+![Screenshot 2025-05-01 185624](https://github.com/user-attachments/assets/37aeda3f-51ed-4fd5-a0b7-2e1449baa1b2)
+
 
 **Result:**
 Thus, the half adder and half subtractor verilog program has been sucessfully executed
